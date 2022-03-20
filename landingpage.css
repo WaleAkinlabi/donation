@@ -1,0 +1,186 @@
+body{
+	background-color: #F2F2F2 ;
+}
+.center{
+	text-align: center;
+}
+.flexy{
+	display: flex;
+	justify-content: space-evenly;
+}
+f
+.adjust{
+	position: absolute;
+	top: 1000px;
+	display: none;
+}
+.job{
+	position: absolute;
+	right: 80px;
+}
+.bl{
+	background-color: #295F79;
+}
+.new{
+	background-color: #E5E5E5;
+}
+.voice{
+	background-color: #295F79;
+}
+.fre{
+	background-color: #295F79 !important;
+}
+.white{
+	color: white !important;
+}
+*{
+	font-family: Segoe UI;
+}
+
+.one{
+	position: absolute;
+	top: 300px;
+	left: 450px;
+}
+.three{
+	position: absolute;
+	left: 450px;
+	top: 50px;
+}
+
+.dec{
+	width: 80%;
+	margin-left: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.grey{
+	background: radial-gradient(138.06% 399.98% at -21.94% -9.4%, rgba(14, 94, 22, 0.1) 0%, rgba(77, 97, 252, 0.075) 100%);
+}
+
+.align{
+	text-align: center;
+}
+.mock{
+	width: 80%;
+	margin: 0 auto;
+}	
+.size{
+	height: 550px;
+	width: 570px;
+}
+
+.cat{
+	position: relative;
+}
+
+.adjusts{
+	position: absolute;
+	left: 10px;
+}
+
+.be{
+	background-color: #E5E5E5;
+}
+.p {
+  border-right: 6px solid #295F79;
+  border-radius: 10px;
+}
+.blue{
+	top: ;
+}
+
+/*
+@media only screen and (max-width: 1200px){
+	.adjust{
+    width: 30%;
+    top: 100px;
+    right: 30px;
+ }
+ .blue{
+ 	width: 300px;
+ }
+}*/
+1366*768
